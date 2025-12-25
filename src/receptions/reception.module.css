@@ -1,0 +1,12 @@
+.background {
+        background-color: rgb(255, 213, 163);
+}
+
+.color{
+        background-color: rgb(224, 89, 89);
+        color: white;
+}
+
+.trancperency {
+        opacity: 50%;
+}
